@@ -2,8 +2,8 @@
 
 Trabalho apresentado a disciplina Tópicos Especiais em Ciência da Computação II - Visualização da Informação.
 
-<# Descrição dos dados utilizados:>
-Descrição dos dados utilizados:
+# Descrição dos dados utilizados:
+
 Fonte - www.dados.gov.br
 
 Tema - Matrículas discentes no Instituto Federal do Pará(IFPA)
@@ -16,7 +16,7 @@ Atualizado - 28.02.2020
 
 Dicionários de dados - https://dados.gov.br/dataset/matriculas1/resource/5949311b-f733-4475-860f-e3c4bcdf4543
 
-<# Objetivo>
+# Objetivo
 
 Analisar indicadores de matrícula do IFPA em 2019 com a finalidade de responder. 
 
