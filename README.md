@@ -1,3 +1,3 @@
 # UfpaD3
  
- Trabalho apresentado a disciplina TOPICOS ESPECIAIS EM CIENCIA DA COMPUTACAO II - VISUALIZACAO DA INFORMACAO.
+ Trabalho apresentado a disciplina Tópicos Especiais em Ciência da Computação II - Visualização da Informação.
