@@ -1,0 +1,199 @@
+{
+    "name":"IFPA",
+    "children":[{"name":"2019", 
+        "children":[
+            {"name":"Campus Abaetetuba", "children":[
+                {"name":"Licenciatura", "children":[
+                    {"name":"40 alunos"}
+                ]},
+                {"name":"Técnico", "children":[
+                    {"name":"378 alunos"}
+                ]}
+            ]}, 
+            {"name":"Campus Altamira", "children":[
+                {"name":"Qualificação Profissional (FIC)", "children":[
+                    {"name":"107 alunos"}
+                ]},
+                {"name":"Tecnologia", "children":[
+                    {"name":"30 alunos"}
+                ]},
+                {"name":"Técnico", "children":[
+                    {"name":"81 alunos"}
+                ]}
+            ]},
+            {"name":"Campus Ananindeua", "children":[
+                {"name":"Técnico", "children":[
+                    {"name":"69 alunos"}
+                ]}
+            ]},
+            {"name":"Campus Belém", "children":[
+                {"name":"Bacharelado", "children":[
+                    {"name":"57 alunos"}
+                ]},
+                {"name":"Licenciatura", "children":[
+                    {"name":"250 alunos"}
+                ]},
+                {"name":"Mestrado", "children":[
+                    {"name":"11 alunos"}
+                ]},
+                {"name":"Tecnologia", "children":[
+                    {"name":"93 alunos"}
+                ]},
+                {"name":"Técnico", "children":[
+                    {"name":"796 alunos"}
+                ]}
+            ]},
+            {"name":"Campus Braganca", "children":[
+                {"name":"Especialização", "children":[
+                    {"name":"13 alunos"}
+                ]},
+                {"name":"Licenciatura", "children":[
+                    {"name":"88 alunos"}
+                ]},
+                {"name":"Qualificação Profissional (FIC)", "children":[
+                    {"name":"30 alunos"}
+                ]},
+                {"name":"Tecnologia", "children":[
+                    {"name":"78 alunos"}
+                ]},
+                {"name":"Técnico", "children":[
+                    {"name":"214 alunos"}
+                ]}
+            ]},
+            {"name":"Campus Breves", "children":[
+                {"name":"Licenciatura", "children":[
+                    {"name":"58 alunos"}
+                ]},
+                {"name":"Qualificação Profissional (FIC)", "children":[
+                    {"name":"79 alunos"}
+                ]},
+                {"name":"Técnico", "children":[
+                    {"name":"270 alunos"}
+                ]}
+            ]},
+            {"name":"Campus Cameta", "children":[
+                {"name":"Especialização", "children":[
+                    {"name":"30 alunos"}
+                ]},
+                {"name":"Qualificação Profissional (FIC)", "children":[
+                    {"name":"17 alunos"}
+                ]},
+                {"name":"Técnico", "children":[
+                    {"name":"80 alunos"}
+                ]}
+            ]},
+            {"name":"Campus Castanhal", "children":[
+                {"name":"Bacharelado", "children":[
+                    {"name":"113 alunos"}
+                ]},
+                {"name":"Licenciatura", "children":[
+                    {"name":"39 alunos"}
+                ]},
+                {"name":"Mestrado", "children":[
+                    {"name":"45 alunos"}
+                ]},
+                {"name":"Técnico", "children":[
+                    {"name":"336 alunos"}
+                ]}
+            ]},
+            {"name":"Campus Conceição do Araguaia", "children":[
+                {"name":"Bacharelado", "children":[
+                    {"name":"35 alunos"}
+                ]},
+                {"name":"Licenciatura", "children":[
+                    {"name":"39 alunos"}
+                ]},
+                {"name":"Tecnologia", "children":[
+                    {"name":"35 alunos"}
+                ]},
+                {"name":"Técnico", "children":[
+                    {"name":"190 alunos"}
+                ]}
+            ]},
+            {"name":"Campus Itaituba", "children":[
+                {"name":"Licenciatura", "children":[
+                    {"name":"40 alunos"}
+                ]},
+                {"name":"Qualificação Profissional (FIC)", "children":[
+                    {"name":"59 alunos"}
+                ]},
+                {"name":"Tecnologia", "children":[
+                    {"name":"39 alunos"}
+                ]},
+                {"name":"Técnico", "children":[
+                    {"name":"118 alunos"}
+                ]}
+            ]},
+            {"name":"Campus Maraba Rural", "children":[
+                {"name":"Especialização", "children":[
+                    {"name":"30 alunos"}
+                ]},
+                {"name":"Técnico", "children":[
+                    {"name":"57 alunos"}
+                ]}
+            ]},
+            {"name":"Campus Maraba Industrial", "children":[
+                {"name":"Tecnologia", "children":[
+                    {"name":"26 alunos"}
+                ]},
+                {"name":"Técnico", "children":[
+                    {"name":"313 alunos"}
+                ]}
+            ]},
+            {"name":"Campus Paragominas", "children":[
+                {"name":"Especialização", "children":[
+                    {"name":"52 alunos"}
+                ]},
+                {"name":"Técnico", "children":[
+                    {"name":"235 alunos"}
+                ]}
+            ]},
+            {"name":"Campus Parauapebas", "children":[
+                {"name":"Especialização", "children":[
+                    {"name":"42 alunos"}
+                ]},
+                {"name":"Tecnologia", "children":[
+                    {"name":"39 alunos"}
+                ]},
+                {"name":"Técnico", "children":[
+                    {"name":"106 alunos"}
+                ]}
+            ]},
+            {"name":"Campus Santarém", "children":[
+                {"name":"Bacharelado", "children":[
+                    {"name":"41 alunos"}
+                ]},
+                {"name":"Qualificação Profissional (FIC)", "children":[
+                    {"name":"143 alunos"}
+                ]},
+                {"name":"Técnico", "children":[
+                    {"name":"263 alunos"}
+                ]}
+            ]},
+            {"name":"Campus Tucuruí", "children":[
+                {"name":"Bacharelado", "children":[
+                    {"name":"31 alunos"}
+                ]},
+                {"name":"Especialização", "children":[
+                    {"name":"25 alunos"}
+                ]},
+                {"name":"Licenciatura", "children":[
+                    {"name":"37 alunos"}
+                ]},
+                {"name":"Tecnologia", "children":[
+                    {"name":"21 alunos"}
+                ]},
+                {"name":"Técnico", "children":[
+                    {"name":"208 alunos"}
+                ]}
+            ]},
+            {"name":"Campus Óbidos", "children":[
+                {"name":"Especialização", "children":[
+                    {"name":"64 alunos"}
+                ]},
+                {"name":"Técnico", "children":[
+                    {"name":"250 alunos"}
+                ]}
+            ]}] 
+    }]                 
+}
