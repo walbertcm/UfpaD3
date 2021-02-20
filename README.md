@@ -3,10 +3,6 @@
 Trabalho apresentado a disciplina Tópicos Especiais em Ciência da Computação II - Visualização da Informação.
 
 # Descrição dos dados utilizados:
-<<<<<<< HEAD
-Descrição dos dados utilizados:
-=======
->>>>>>> 59f3bb23868994f4b7dc7d1f48fd6d145482ba76
 
 Fonte - www.dados.gov.br
 
