@@ -1,2 +1,3 @@
 # UfpaD3
- Walbert
+ 
+ Trabalho apresentado a disciplina TOPICOS ESPECIAIS EM CIENCIA DA COMPUTACAO II - VISUALIZACAO DA INFORMACAO.
